@@ -14,7 +14,7 @@
     <br />
     <a href="https://docs.google.com/presentation/d/1Nv63b7pC7bpWNTzYF5R01pDb3pab2xCo0zCruKjGU7g/edit#slide=id.g1312c932fbf_2_222"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://tenageer-rg.netlify.app/"><strong>open our project that has been deployed by clicking here »</strong></a>
+    <a href="https://tenageer-rg.netlify.app/"><strong>Open our project that has been deployed by clicking here »</strong></a>
     <br />
   </p>
 </p>
